@@ -1,0 +1,153 @@
+{
+	"fixedDialogs": [
+		{
+			"starter": "I'm kind of bored...",
+			"response": "You kind of bore me too"
+		},
+		{
+			"starter": "Need some fresh air",
+			"response": "Yeah, you smell awful!"
+		},
+		{
+			"starter": "I should kill myself",
+			"response": "You probably should!"
+		}
+	],
+	"multipleDialogs": [
+		{
+			"starters": [
+				{
+					"starter": "I need to smoke"
+				},
+				{
+					"starter": "I need a puff..."
+				}
+			],
+			"responses": [
+				{
+					"response": "those things will kill you"
+				},
+				{
+					"response": "I won't stop you..."
+				},
+				{
+					"response": "Wouldn't mind if you shared"
+				}
+			]
+		},
+		{
+			"starters": [
+				{
+					"starter": "I'm starving!"
+				},
+				{
+					"starter": "I really need to eat!"
+				}
+			],
+			"responses": [
+				{
+					"response": "you should eat yourself..."
+				},
+				{
+					"response": "have you tried eating?"
+				},
+				{
+					"response": "...if that keeps your mouth shut"
+				}
+
+			]
+		},
+		{
+			"starters": [
+				{
+					"starter": "Heard the joke about the parrot?"
+				},
+				{
+					"starter": "Told you about my new son?"
+				}
+			],
+			"responses": [
+				{
+					"response": "...way too many times!"
+				},
+				{
+					"response": "nah, and I don't care"
+				},
+				{
+					"response": "just about every two days"
+				}
+
+			]
+		}
+	],
+	"dimensionalDialogs": [
+		{
+			"good_starters": [
+				{
+					"starter": "I'd like to have a smoke"
+				},
+				{
+					"starter": "I'd really like a smoke"
+				}
+			],
+			"bad_starters": [
+				{
+					"starter": "I need to smoke right now!"
+				},
+				{
+					"starter": "I don't care I need a puff!"
+				}
+			],
+			"good_responses": [
+				{
+					"response": "You should go get one"
+				},
+				{
+					"response": "would you mind sharing?"
+				}
+			],
+			"bad_responses": [
+				{
+					"response": "who cares about it?!?"
+				},
+				{
+					"response": "couldn't care less..."
+				}
+			]
+		},
+		{
+			"good_starters": [
+				{
+					"starter": "I'm really starving..."
+				},
+				{
+					"starter": "I would like to eat"
+				}
+			],
+			"bad_starters": [
+				{
+					"starter": "I need to eat something now!!"
+				},
+				{
+					"starter": "I'll eat my arm off!!"
+				}
+			],
+			"good_responses": [
+				{
+					"response": "You should go get something"
+				},
+				{
+					"response": "Sounds delicious..."
+				}
+			],
+			"bad_responses": [
+				{
+					"response": "Do something and stop complaining"
+				},
+				{
+					"response": "eat yourself off!"
+				}
+			]
+		}
+	]
+}
